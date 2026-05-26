@@ -11,8 +11,6 @@
 
 ![made by me](https://files.catbox.moe/4qa2gu.png)
 
-<p align="center">
- [![hi](https://komarev.com/ghpvc/?username=M4CANDCH33S3&label=PEOPLE+SAVED&color=482d46)](https://komarev.com/ghpvc/?username=M4CANDCH33S3&label=PEOPLE+SAVED&color=482d46)
-</p> 
+ ![hi](https://komarev.com/ghpvc/?username=M4CANDCH33S3&label=PEOPLE+SAVED&color=482d46)
 
 ![made by me](https://files.catbox.moe/a5qgfs.png)
