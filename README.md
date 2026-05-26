@@ -12,7 +12,7 @@
 ![made by me](https://files.catbox.moe/4qa2gu.png)
 
 <p align="center">
- ![](https://komarev.com/ghpvc/?username=M4CANDCH33S3&label=PEOPLE+SAVED&color=482d46) 
+ ![hi](https://komarev.com/ghpvc/?username=M4CANDCH33S3&label=PEOPLE+SAVED&color=482d46)
 </p> 
 
 ![made by me](https://files.catbox.moe/a5qgfs.png)
